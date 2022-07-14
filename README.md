@@ -1,6 +1,6 @@
-#Desafio da DIO sobre TypeScript
+<h1>Desafio da DIO sobre TypeScript</h1>
 
-#Desafio 1
+<h2> #Desafio 1 </h2>
 // como podemos rodar isso em um arquivo .ts sem causar erros?
 
 let employee = ();
@@ -8,7 +8,7 @@ employee.code = 10;
 employee.name = "John";
 
 
-#Desafio 2
+<h2> #Desafio 2</h2>
 
 // Como podemos melhorar o esse código usando TS? 
 
@@ -35,7 +35,7 @@ let pessoa4 = {
 }
 
 
-#Desafio 3
+<h2> #Desafio 3 </h2>
 // O código abaixo tem alguns erros e não funciona como deveria. Você pode identificar quais são e corrigi-los em um arquivo TS?
 
 let botaoAtualizar = document.getElementById('atualizar-saldo');
@@ -62,13 +62,13 @@ botaoLimpar.addEventListener('click', function () {
 });
 
 /**
-    <h4>Valor a ser adicionado: <input id="soma"> </h4>
-    <button id="atualizar-saldo">Atualizar saldo</button>
-    <button id="limpar-saldo">Limpar seu saldo</button>
-    <h1>"Seu saldo é: " <span id="campo-saldo"></span></h1>
+    h4>Valor a ser adicionado: <input id="soma"> </h4
+    button id="atualizar-saldo">Atualizar saldo</button
+    button id="limpar-saldo">Limpar seu saldo</button
+    h1>"Seu saldo é: " <span id="campo-saldo"></span></h1
  */
 
-#Desafio 4
+<h2> #Desafio 4 </h2>
 // Um desenvolvedor tentou criar um projeto que consome a base de dados de filme do TMDB para criar um organizador de filmes, mas desistiu 
 // pois considerou o seu código inviável. Você consegue usar typescript para organizar esse código e a partir daí aprimorar o que foi feito?
 
